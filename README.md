@@ -2,7 +2,6 @@
 - 👀 I’m interested in Kubernetes, Observability, Monitoring and Cloud
 - 🌱 I’m currently learning Kubernetes, Terraform, OpenTofu, YAML
 - 📫 If you want to message feel free to add me on discord: elsn3r
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I would really like to move to Norway one day
 
 <!---
