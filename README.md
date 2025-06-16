@@ -1,48 +1,49 @@
 # 👋 Hi there, I'm Christian
 
-🌍 DevOps Engineer in training · Linux Enthusiast · Automation Addict  
-🏔️ Future home: Norway – mountains, fjords, and a peaceful, self-sufficient life  
-🛠️ Focus: Automation · SRE · Monitoring · Cloud Infrastructure
+🔧 DevOps Engineer in training · Linux Enthusiast · Automation-Driven  
+💡 Passionate about building reliable systems and streamlining operations  
+🛠️ Focus: SRE · Infrastructure as Code · Observability · Cloud Engineering
 
 ---
 
 ## 🚀 About Me
 
-I'm a young IT professional passionate about DevOps, Linux, and building smart, automated systems. Currently working towards financial independence, my long-term goal is to create a modern, self-sufficient home in the Norwegian wilderness – blending traditional style with cutting-edge technology.
+I'm an aspiring DevOps Engineer with a deep interest in automation, scalable infrastructure, and modern operational practices. My mindset combines technical precision with a drive for clean, efficient, and maintainable systems.
 
-I believe in clean architecture, efficient workflows, and clear, professional communication. I strive to bridge the gap between analytical precision and human-centered motivation – in code, in life, and in the work I do.
+I enjoy diving deep into infrastructure design, system observability, and process automation. Whether it's writing robust scripts, deploying Kubernetes clusters, or refining GitOps pipelines – I’m always looking for smarter, more elegant solutions.
 
 ---
 
-## 🧰 Tech Stack & Interests
+## 🧰 Tech Stack & Focus Areas
 
 - **Infrastructure as Code**: Terraform · Ansible · Kluctl
-- **Containerization & Orchestration**: Docker · Kubernetes · GitOps (Cluster API, GitLab, ArgoCD)
+- **Containers & Orchestration**: Docker · Kubernetes · GitOps (ArgoCD, Cluster API, GitLab CI/CD)
 - **Monitoring & Observability**: Prometheus · Grafana · Checkmk
-- **Automation & Scripting**: Python · Bash · YAML · Rust (early stages)
-- **Cloud Platforms**: AWS · Azure (learning in progress)
+- **Scripting & Programming**: Python · Bash · YAML · Rust (beginner)
+- **Cloud Platforms**: AWS · Azure (learning)
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Exploring
 
-- Kubernetes deep dive & GitOps workflows  
-- Terraform modules and cloud provisioning  
-- Golang basics & writing CLI tools  
-- Security best practices in DevOps  
+- Kubernetes internals & GitOps architectures  
+- Terraform module design and IaC best practices  
+- SRE principles: SLIs, SLOs, and error budgets  
+- Writing small CLI tools with Python or Go  
+- Security & compliance in cloud-native environments  
 
 ---
 
-## 🎯 Goals
+## 🔍 Interests
 
-- 🔧 Build modern, secure, and maintainable infrastructure  
-- 📈 Become financially independent by 50 – ideally earlier  
-- 🏡 Design and build an earth house in rural Norway  
-- 🧘‍♂️ Achieve a balance between meaningful work and true peace
+- DevOps methodologies & platform engineering  
+- Automation pipelines and GitOps workflows  
+- Monitoring, alerting, and incident response strategies  
+- Clean, modern tooling that just works™
 
 ---
 
 ## ☕ Let's Connect
 
-I'm always open to connecting with like-minded DevOps folks, SREs, and engineers who love clean systems and wild nature. Feel free to drop me a message or check out what I'm building here!
+I’m always interested in exchanging ideas with fellow engineers working on DevOps, SRE, infrastructure, and automation. Feel free to connect or follow my projects to see what I'm up to!
 
